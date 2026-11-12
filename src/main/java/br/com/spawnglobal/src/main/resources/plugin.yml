@@ -1,0 +1,6 @@
+name: SpawnerGlobal
+version: 1.0.0
+main: br.com.spawnglobal.SpawnerGlobal
+api-version: '26.3'
+
+description: Configura globalmente os geradores de mobs.
